@@ -1,0 +1,5 @@
+[
+ {"id":1,"name":"Royal Nuts Box","price":25,"category":"gift"},
+ {"id":2,"name":"Premium Dates","price":12,"category":"dried-fruit"},
+ {"id":3,"name":"Oriental Dessert Set","price":39,"category":"gift"}
+]
